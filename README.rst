@@ -1,7 +1,7 @@
 kill_process
 ============
 
-Extending Python 3 with Assembly Language and C Sample Code. Tested on Fedora 32.
+Extending Python 3 with Assembly Language and C Sample Code. Tested on Fedora 32. Take note that this will only works on a 64 bit Linux.
 
 Install Dependency (Fedora)
 ===========================
