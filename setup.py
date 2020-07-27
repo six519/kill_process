@@ -17,7 +17,7 @@ class build(_build):
 
 setup(name="kill_process",
     version="1.0",
-    description="Extending Python with Assembly Language and C Sample Code",
+    description="Extending Python 3 with Assembly Language and C Sample Code",
     author="Ferdinand Silva",
     author_email="ferdinandsilva@ferdinandsilva.com",
     url="https://github.com/six519/kill_process",
